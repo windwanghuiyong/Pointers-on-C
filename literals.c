@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char const *argv[]) 
+int main(int argc, char const *argv[])
 {
     int a;
 
@@ -15,7 +15,7 @@ int main(int argc, char const *argv[])
 
     a = L'abc';         //宽字符常量
     printf("%d\n", a);
-    
+
 	int x/*blah blah*/y;
 
 	printf("Blunder\?\?!\?\?");
