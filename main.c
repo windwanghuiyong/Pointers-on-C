@@ -7,6 +7,5 @@
 ************************/
 int main (int argc, char *argv[])
 {
-    val_test();
     return 0;
 }
